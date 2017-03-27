@@ -3,7 +3,7 @@ html {
 }
 
 td {
-  height: 15em;
+  height: 11em;
   border-style: solid;
   border-width: 1px;
   border-color: #ccc;
@@ -16,7 +16,7 @@ tr {
 }
 
 .gray {
-  border-radius: 6px;
+  border-radius: 7px;
   border-width: 1px;
   border-style: solid;
   border-color: #666;
@@ -24,7 +24,7 @@ tr {
 }
 
 .red {
-  border-radius: 6px;
+  border-radius: 8px;
   border-width: 1px;
   border-style: solid;
   border-color: #b92828;
@@ -33,7 +33,7 @@ tr {
 }
 
 .green {
-  border-radius: 6px;
+  border-radius: 8px;
   border-width: 1px;
   border-style: solid;
   border-color: #6b7e54;
@@ -42,7 +42,7 @@ tr {
 }
 
 .blue {
-  border-radius: 6px;
+  border-radius: 8px;
   border-width: 1px;
   border-style: solid;
   border-color: #1d38da;
